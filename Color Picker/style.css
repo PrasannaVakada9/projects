@@ -1,0 +1,36 @@
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f5f8;
+    font-family: "Montserrat";
+
+  }
+
+  .color{
+    margin-top: 300px;
+    text-align: center;
+  }
+
+  #hex{
+    color: #76add1;
+  }
+
+  .color h2{
+        color: white;
+        font-size: 40px;
+        background-color: black;
+        margin: 60px;
+        border-radius: 5px;
+        box-sizing: border-box;
+  }
+
+  .color button{
+     color: black;
+     border: 3px solid black;
+     cursor: pointer;
+     font-size: 24px;
+     background-color: transparent;
+     padding: 5px;
+     border-radius: 5px;
+  }
